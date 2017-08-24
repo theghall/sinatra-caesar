@@ -86,6 +86,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   pg
+  rack
   sinatra
   spring
   web-console (~> 2.0)
